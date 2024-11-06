@@ -1,5 +1,5 @@
-# Hi I AM Darshan N
-welcome to my GitHub
+<h2 align=center>HI I AM Darshan N</h2>
+<p align=center>welcome to my GitHub</p>
 
 <img align=center src="https://i.pinimg.com/736x/01/d2/6c/01d26c11764bf144657df3db772d9766.jpg" width="250" height="300" alt="Image1"/>
 <h2>NAME : Darshan N</h2
